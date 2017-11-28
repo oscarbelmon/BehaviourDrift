@@ -1,8 +1,11 @@
 # Welcome to Behaviour Drift Project
 
-## Objective
-Detect the change in the behavior pattern of users monitored in their own homes, through an indoor location platform.
+Abrupt change and linear drift detection in the behavior of localized people with non-invasive indoor positioning techniques.
 
+## Main Objective
+To detect the change in the behavior pattern of users monitored in their own homes, through an indoor location platform.
+
+## Specific objectives
 
 1. To create the necessary technological platform to obtain the location data of the users.
 1. To obtain data from real users over a sufficiently long period of time to make them statistically significant.
@@ -11,7 +14,9 @@ Detect the change in the behavior pattern of users monitored in their own homes,
 1. To extend the CUSUM algorithm for detecting changes with linear drift over time.
 1. To conduct data acquisition campaigns with real users.
 1. To analyze the results obtained on real data, to improve the data acquisition process and refine algorithms.
+---
 
+This rearch project is developed by the [GIANT Research Group](http://giant.uji.es) at [Jaume I University](http://www.uji.es).
 
 <!-- You can use the [editor on GitHub](https://github.com/oscarbelmon/BehaviourDrift/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
