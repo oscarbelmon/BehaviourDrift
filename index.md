@@ -20,10 +20,6 @@ To detect the change in the behavior pattern of users monitored in their own hom
 
 This rearch project is developed by the [GIANT Research Group](http://giant.uji.es) at [Jaume I University](http://www.uji.es).
 
----
-
-This rearch project is developed by the [GIANT Research Group](http://giant.uji.es) at [Jaume I University](http://www.uji.es).
-
 
 
 <!-- You can use the [editor on GitHub](https://github.com/oscarbelmon/BehaviourDrift/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
